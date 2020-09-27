@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reacr-todolist/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/reacr-todolist/static/js/main.15093eae.chunk.js",
+    "main.js.map": "/reacr-todolist/static/js/main.15093eae.chunk.js.map",
+    "runtime-main.js": "/reacr-todolist/static/js/runtime-main.502b8d42.js",
+    "runtime-main.js.map": "/reacr-todolist/static/js/runtime-main.502b8d42.js.map",
+    "static/js/2.ffb00342.chunk.js": "/reacr-todolist/static/js/2.ffb00342.chunk.js",
+    "static/js/2.ffb00342.chunk.js.map": "/reacr-todolist/static/js/2.ffb00342.chunk.js.map",
+    "index.html": "/reacr-todolist/index.html",
+    "precache-manifest.e9a95c6949d856be393721d598ea1544.js": "/reacr-todolist/precache-manifest.e9a95c6949d856be393721d598ea1544.js",
+    "service-worker.js": "/reacr-todolist/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/reacr-todolist/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ffb00342.chunk.js.LICENSE.txt": "/reacr-todolist/static/js/2.ffb00342.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.502b8d42.js",
+    "static/js/2.ffb00342.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.15093eae.chunk.js"
+  ]
+}
