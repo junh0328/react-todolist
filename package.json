@@ -15,8 +15,13 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+<<<<<<< HEAD
     "deploy": "gh-pages -d build ",
     "predeploy": "npm run build"
+=======
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build "
+>>>>>>> bc55d7c39ff2d69f1bab4226ceaac8c581f0235b
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -36,5 +41,5 @@
   "devDependencies": {
     "gh-pages": "^3.1.0"
   },
-  "homepage": "https://junh0328.github.io/reacr-todolist"
+  "homepage": "https://junh0328.github.io/react-todolist"
 }
